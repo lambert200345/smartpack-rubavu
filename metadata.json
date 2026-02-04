@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SmartPark Rubavu",
+  "description": "A sophisticated parking management system for SmartPark, based in Rubavu, Rwanda. Features real-time slot tracking, automated billing, and AI-powered insights for optimized parking operations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
